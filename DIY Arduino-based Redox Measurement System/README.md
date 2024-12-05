@@ -24,19 +24,8 @@ This project is designed to measure and log redox potential in soil using an Ard
 - **`/Arduino Code`**: All Arduino sketches for configuring the redox system.
 - **`/PCB Designs`**: Custom PCB layouts for integrating all components into a single board.
 - **`/Parts List`**: Comprehensive list of materials required to build the system.
-- **`/RMDs`**: Redox Measurement Data processing scripts for analyzing logged data.
+- **`/R Scripts`**: Redox Measurement Data processing scripts for analyzing logged data.
 - **`/Documentation`**: Detailed guides, wiring diagrams, and setup instructions.
-
----
-
-## **⚙️ Getting Started**
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo-link
-   cd Arduino-Redox-Measurement
-   ```
-2. Follow the **Setup Guide** in the `/Documentation` folder to assemble hardware and deploy the firmware.
-3. Connect the system to your probes, and start collecting data!
 
 ---
 
@@ -56,17 +45,15 @@ This project is designed to measure and log redox potential in soil using an Ard
 ---
 
 ## **📞 Contribute or Collaborate**
-We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[email@example.com](mailto:email@example.com)**.
+We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[hiremuttt@si.edu](mailto:email@example.com)**.
 
 ---
 
 ## **❤️ Acknowledgments**
-This project wouldn’t have been possible without the contributions from our team and the support of the open-source community.
-
+This project wouldn’t have been possible without the contributions from our team and the funding for this project was provided by the DOE Environmental System Science Program and the Smithsonian Institution. Thank you to the Smithsonian Environmental Research Center and the Technology and Ecology Lab. 
 ---
 
 **Let’s make field research smarter, affordable, and accessible for everyone!**  
 _Star ⭐ the repo if you find it useful._  
 
 --- 
-> **[View Live Demo](https://example-link.com)** | **[License](LICENSE)** | **[Contributing Guidelines](CONTRIBUTING.md)**
