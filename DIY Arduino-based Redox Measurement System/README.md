@@ -55,7 +55,7 @@ This project wouldn’t have been possible without the contributions from our te
 ---
 
 ## **❤️ Acknowledgments**
-This project wouldn’t have been possible without the contributions from our team and the funding for this project provided by the DOE Environmental System Science Program and the Smithsonaian Institution.
+This project wouldn’t have been possible without the contributions from our team and the funding for this project provided by the DOE Environmental System Science Program and the Smithsonaian Institution. Thank you to the Smithsonian Environmental Research Center and the Technology and Ecology Lab. 
 
 ---
 
