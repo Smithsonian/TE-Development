@@ -25,7 +25,7 @@ This project is designed to measure and log redox potential in soil using an Ard
 - **`/PCB Designs`**: Custom PCB layouts for integrating all components into a single board.
 - **`/Parts List`**: Comprehensive list of materials required to build the system.
 - **`/R Scripts`**: Redox Measurement Data processing scripts for analyzing logged data.
-- **`/Documentation`**: Detailed guides, wiring diagrams, and setup instructions.
+- **`/Documentations`**: Detailed guides, wiring diagrams, and setup instructions.
 
 ---
 
@@ -45,12 +45,13 @@ This project is designed to measure and log redox potential in soil using an Ard
 ---
 
 ## **📞 Contribute or Collaborate**
-We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[hiremuttt@si.edu](mailto:email@example.com)**.
+We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[hiremuttt@si.edu] [westbrooke@si.edu](mailto:email@example.com)**.
 
 ---
 
 ## **❤️ Acknowledgments**
-This project wouldn’t have been possible without the contributions from our team and the funding for this project was provided by the DOE Environmental System Science Program and the Smithsonian Institution. Thank you to the Smithsonian Environmental Research Center and the Technology and Ecology Lab. 
+This project wouldn’t have been possible without the contributions from our team and the funding for this project was provided by the DOE Environmental System Science Program and the Smithsonian Institution.
+Thank you to the Smithsonian Environmental Research Center and the Technology and Ecology Lab. 
 ---
 
 **Let’s make field research smarter, affordable, and accessible for everyone!**  
