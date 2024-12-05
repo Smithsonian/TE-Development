@@ -55,7 +55,7 @@ This project wouldn’t have been possible without the contributions from our te
 ---
 
 ## **❤️ Acknowledgments**
-This project wouldn’t have been possible without the contributions from our team and the support of the open-source community.
+This project wouldn’t have been possible without the contributions from our team and the funding for this project provided by the DOE Environmental System Science Program and the Smithsonaian Institution.
 
 ---
 
