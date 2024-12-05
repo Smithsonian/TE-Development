@@ -56,8 +56,8 @@ Thank you to the Smithsonian Environmental Research Center and the Technology an
 ---
 
 ## **❤️ Acknowledgments**
-This project wouldn’t have been possible without the contributions from our team and the support of the open-source community.
-
+This project wouldn’t have been possible without the contributions from our team and the funding for this project was provided by the DOE Environmental System Science Program and the Smithsonian Institution.
+Thank you to the Smithsonian Environmental Research Center and the Technology and Ecology Lab. 
 ---
 
 **Let’s make field research smarter, affordable, and accessible for everyone!**  
