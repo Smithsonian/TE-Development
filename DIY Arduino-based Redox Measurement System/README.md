@@ -45,7 +45,7 @@ This project is designed to measure and log redox potential in soil using an Ard
 ---
 
 ## **📞 Contribute or Collaborate**
-We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[hiremuttt@si.edu] [westbrooke@si.edu] (mailto:email@example.com)**.
+We’re open to contributions! Submit pull requests or raise issues to enhance the system. For collaboration inquiries, contact us at **[hiremuttt@si.edu] [westbrooke@si.edu]**.
 
 ---
 
